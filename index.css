@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
+
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body
+{
+    display: flex;
+    /* margin: 0; */
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: cursive;
+    background: linear-gradient(rgb(145, 188, 216), rgba(223, 156, 57, 0.678));
+}
+
+.container
+{
+    display: flex;
+    height: 50vh;
+    width: 150vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.container .box
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(255, 232, 127, 0.349);
+    height: 25vh;
+    width: 30vh;
+    margin: 3rem;
+    border-radius: 1rem;
+    border: 5px solid black;
+    font-size: 4.5rem;
+}
+
+.container .colon
+{
+    font-size: 6rem;
+}

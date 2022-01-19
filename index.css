@@ -16,7 +16,7 @@ body
     justify-content: center;
     height: 100vh;
     font-family: cursive;
-    background: linear-gradient(rgb(145, 188, 216), rgba(223, 156, 57, 0.678));
+    background: linear-gradient(rgb(39, 41, 43), rgba(44, 40, 33, 0.377));
 }
 
 .container
@@ -33,7 +33,7 @@ body
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: rgba(255, 232, 127, 0.349);
+    background-color: rgba(13, 247, 255, 0.349);
     height: 25vh;
     width: 30vh;
     margin: 3rem;
